@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 239, 196);
+    width: 350px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#name {
+    position: absolute;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    color: red;
+    margin: 0%;
+    text-align: center;
+    top: 200px;
+    padding-left: 340px;
+}
+
+#im1 {
+    width: 350px;
+}
+
+#im2 {
+    padding-left: 680px;
+    position: absolute;
+    width: 300px;
+}
+
+#content {
+    bottom: 150px;
+    position: absolute;
+    padding-left: 350px;
+    padding-top: 30px;
+    font-size: 16px;
+}
+
+#footer {
+    position: absolute;
+    padding-left: 500px;
+    top: 580px;
+    font-size: 15px;
+    color: black;
+}
